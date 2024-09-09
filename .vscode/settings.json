@@ -1,0 +1,31 @@
+{
+    "Lua.diagnostics.globals": [
+        "love",
+        "smallfont",
+        "push",
+        "player2Score",
+        "player1Score",
+        "player2Y",
+        "player1Y",
+        "smallFont",
+        "scoreFont",
+        "ballX",
+        "ballY",
+        "ballDY",
+        "ballDX",
+        "gameSatet",
+        "gameState",
+        "ball",
+        "player1",
+        "player2",
+        "displayFPS",
+        "servingPlayer",
+        "winningPlayer",
+        "largeFont",
+        "displayScore",
+        "sounds"
+    ],
+    "Lua.diagnostics.disable": [
+        "duplicate-set-field"
+    ]
+}
